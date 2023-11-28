@@ -1,7 +1,10 @@
-### Hi there 👋
+<h1>▪️ Hi! ▪️<br/>
+<h2>▫️ Personal Projects ▫️</h2>
+
+<h2>▫️ Courses/Modules Projects and Coding Exercises ▫️</h2>
 
 <!--
-**PadTo/PadTo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
