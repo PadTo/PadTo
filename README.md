@@ -9,9 +9,9 @@
 
 ## Courses/Modules Projects and Coding Exercises
 
-- [CS50's Introduction to Computer Science](https://github.com/PadTo/CS50-Intro-Computer-Science)
-- [Introduction to Programming in R](https://github.com/PadTo/Programming-in-R)
-- [Introduction to Relational Databases](https://github.com/PadTo/Introduction-Relational-Databases--SQL-)
+- Multiple Languages: [CS50's Introduction to Computer Science](https://github.com/PadTo/CS50--Course-)
+- R: [Introduction to Programming in R](https://github.com/PadTo/Programming-in-R)
+- SQL: [Introduction to Relational Databases](https://github.com/PadTo/Introduction-Relational-Databases--SQL-)
 
 ## Bachelor's Project
-- [Detecting Cardiovascular Diseases Using Machine Learning](https://github.com/PadTo/Detecting-CVDs-Using-ML-MATLAB)
+- [Detecting Cardiovascular Diseases Using Machine Learning](https://github.com/PadTo/Detecting-CVDs-Using-ML-MATLAB/tree/main)
