@@ -15,4 +15,5 @@
   - [Iterative Methods](https://github.com/PadTo/ITERATIVE_METHODS-Matlab-)
 
 ## ◻️Bachelor's Project 
-- [Detecting Cardiovascular Diseases Using Machine Learning (Matlab)](https://github.com/PadTo/Detecting-CVDs-Using-ML-MATLAB/tree/main)
+### Matlab
+- [Detecting Cardiovascular Diseases Using Machine Learning](https://github.com/PadTo/Detecting-CVDs-Using-ML-MATLAB/tree/main)
