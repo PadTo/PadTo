@@ -1,19 +1,17 @@
-<h1>▪️ Hi! ▪️<br/>
-<h2>▫️ Personal Projects ▫️</h2>
+# Hi!
 
-<h2>▫️ Courses/Modules Projects and Coding Exercises ▫️</h2>
+## Personal Projects
+- Python
+  - [Auto Strafing CS:GO 2](https://github.com/PadTo/Auto_Counter_Strafing_cs_go_2)
+  - [ChatGPT Swarm (API Calls) Analyzing Mathematical Problems](https://github.com/PadTo/ChatGPT-Swarm-API)
+- Matlab 
+  - [Project Name](#) <!-- Replace # with the actual link -->
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Courses/Modules Projects and Coding Exercises
 
-Here are some ideas to get you started:
+- [CS50's Introduction to Computer Science](https://github.com/PadTo/CS50-Intro-Computer-Science)
+- [Introduction to Programming in R](https://github.com/PadTo/Programming-in-R)
+- [Introduction to Relational Databases](https://github.com/PadTo/Introduction-Relational-Databases--SQL-)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Bachelor's Project
+- [Detecting Cardiovascular Diseases Using Machine Learning](https://github.com/PadTo/Detecting-CVDs-Using-ML-MATLAB)
