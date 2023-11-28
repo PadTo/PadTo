@@ -3,9 +3,9 @@
 ## Personal Projects
 - Python
   - [Auto Strafing CS:GO 2](https://github.com/PadTo/Auto_Counter_Strafing_cs_go_2)
-  - [ChatGPT Swarm (API Calls) Analyzing Mathematical Problems](https://github.com/PadTo/ChatGPT-Swarm-API)
+  - [ChatGPT Swarm (API Calls) Analyzing Mathematical Problems](https://github.com/PadTo/OpenAi_Swarm)
 - Matlab 
-  - [Project Name](#) <!-- Replace # with the actual link -->
+  - [Iterative Methods](https://github.com/PadTo/ITERATIVE_METHODS-Matlab-) <!-- Replace # with the actual link -->
 
 ## Courses/Modules Projects and Coding Exercises
 
