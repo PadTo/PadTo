@@ -4,7 +4,7 @@
 - Python
   - [Auto Strafing CS:GO 2](https://github.com/PadTo/Auto_Counter_Strafing_cs_go_2)
   - [Text-Based Interactive Game](https://github.com/PadTo/Text_Based_Escape_Room)
-  - [ChatGPT Swarm (API Calls) Analyzing Mathematical Problems (In Progress)](https://github.com/PadTo/OpenAi_Swarm)
+
 
 ## ◻️ Courses/Modules Projects and Coding Exercises 
 
