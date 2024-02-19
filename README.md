@@ -4,6 +4,7 @@
 - Python
   - [Auto Strafing CS:GO 2](https://github.com/PadTo/Auto_Counter_Strafing_cs_go_2)
   - [Text-Based Interactive Game](https://github.com/PadTo/Text_Based_Escape_Room)
+  - [Tic-Tac-Toe using ML -In Progress-](https://github.com/PadTo/Tic_Tac_Toe--min_max----IN-PROGRESS--)
 
 
 ## ◻️Bachelor's Project 
