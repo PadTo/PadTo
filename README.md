@@ -14,12 +14,6 @@ A machine learning model predicting rental prices using regression techniques. P
 
 ---
 
-### ❌🟢 Tic Tac Toe Reinforcement Learning Agent  
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/PadTo/Tic_Tac_Toe-ML-)  
-A reinforcement learning agent trained to play and improve at Tic Tac Toe. Implements Q-learning and supports human vs. AI interaction.
-
----
-
 ### 🎯 Auto Counter-Strafing Script for CS:GO 2  
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/PadTo/Auto_Counter_Strafing_cs_go_2)  
 Experimental tool designed to automate counter-strafing movement in CS:GO 2 using keyboard input scripting.
