@@ -10,7 +10,6 @@ A scalable Python pipeline using the Riot Games API for collecting, processing, 
 
 ### 🏠 Rent Prices Predictor Model (ML)  
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/PadTo/Rent-Prices-Predictor-Model-ML)  
-A machine learning model predicting rental prices using regression techniques. Preprocessing, EDA, and model evaluation handled with scikit-learn and pandas.
 
 ---
 
