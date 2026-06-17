@@ -8,5 +8,5 @@ A scalable Python pipeline using the Riot Games API for collecting, processing, 
 
 ## Master's Thesis
 ### Predicting Customer Churn: A Model Comparisson Cox PH, Discrete, Bayesian Extension 
-[![GitHub Repo](https://github.com/PadTo/Survival_Analysis_Thesis)  
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/PadTo/Survival_Analysis_Thesis)  
 
