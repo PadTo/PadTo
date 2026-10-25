@@ -7,6 +7,6 @@
 A scalable Python pipeline using the Riot Games API for collecting, processing, and storing competitive match data in a normalized SQLite database. Includes robust logging, rate-limiting, and modular configuration.
 
 ## Master's Thesis
-### Predicting Customer Churn: A Model Comparisson Cox PH, Discrete, Bayesian Extension 
+### Proportional Hazards and Linearity in a Counting-Process Model of Customer Churn 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/PadTo/Survival_Analysis_Thesis)  
 
